@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0de939e0-7367-4f9d-a97d-19d06fabddfe" name="Changes" comment="2nd commit">
+    <list default="true" id="0de939e0-7367-4f9d-a97d-19d06fabddfe" name="Changes" comment="3rd commit">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -33,6 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -44,7 +48,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667490421719</updated>
-      <workItem from="1667490423148" duration="2320000" />
+      <workItem from="1667490423148" duration="3721000" />
+      <workItem from="1667815650960" duration="2840000" />
+      <workItem from="1667921886280" duration="57000" />
+      <workItem from="1667977110474" duration="1100000" />
+      <workItem from="1668176443597" duration="1945000" />
+      <workItem from="1668189924437" duration="1417000" />
+      <workItem from="1669966276785" duration="1663000" />
+      <workItem from="1670000430171" duration="1269000" />
+      <workItem from="1670323650502" duration="380000" />
+      <workItem from="1671822776092" duration="4805000" />
     </task>
     <task id="LOCAL-00001" summary="1st commit">
       <created>1667490527552</created>
@@ -60,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667490680168</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3rd commit">
+      <created>1667493510764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667493510764</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +100,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st commit" />
     <MESSAGE value="2nd commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd commit" />
+    <MESSAGE value="3rd commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd commit" />
   </component>
 </project>
